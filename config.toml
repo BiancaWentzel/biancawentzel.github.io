@@ -1,0 +1,71 @@
+baseURL = 'https://sinfonietta-charlottenburg.de'
+languageCode = 'de'
+paginate = 6
+theme= "coHub"
+title = 'Sinfonietta Charlottenburg'
+ 
+[Menu]
+  # Main Menu
+  [[menu.Main]]
+  name = "Orchester"
+  url= "#service"
+  weight = 1
+  [[menu.Main]]
+  name = "Dirigent"
+  url= "#dirigent"
+  weight = 2
+  [[menu.Main]]
+  name = "Konzerte"
+  url= "#blog"
+  weight = 3
+  [[menu.Main]]
+  name = "Kontakt"
+  url= "/contact/"
+  weight = 4
+
+  # Sitemap Menu
+  [[menu.sitemap]]
+  name = "Datenschutzerklaerung"
+  url = "/privacy/"
+  weight = 1
+  [[menu.sitemap]]
+  name = "Impressum"
+  url = "/terms/"
+  weight = 2
+
+[params]
+  aboutPageURL = "blog"
+  contactLink = "contact"
+  copyright = "© {year} Sinfonietta Charlottenburg"
+  fabFormURL =  ""
+  googleAnalytics = ""
+  logo = "images/logo.svg"
+  footerlogo = "images/logo.svg"
+  footerDescription = "Sinfonietta Charlottenburg - Ein Berliner Laienorchester"
+
+  [params.address]
+  address = "Hildegard-Wegscheider-Gymnasium<br> Lassenstr. 16-20<br> 14193 Berlin "
+  email = ""
+  openingDesc = "Musikerinnen und Musiker, die ein Berliner Amateurorchester suchen, sind bei der Sinfonietta Charlottenburg gern gesehen. Wer interessiert ist, kann gerne bei einer Probe zuschauen oder noch besser gleich mitspielen."
+  openingHours = "Wir proben jeden Donnerstag von 19:00 Uhr bis 21:30 Uhr"
+  phone = ""
+
+  # Socail icons
+  [[params.social]]
+  icon = ""
+  url = ""
+  weight = 1
+  [[params.social]]
+  icon = ""
+  url = ""
+  weight = 2
+  [[params.social]]
+  icon = ""
+  url = ""
+  weight = 3
+  [[params.social]]
+  icon = ""
+  url = ""
+  weight = 4
+  
+  

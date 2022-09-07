@@ -1,0 +1,57 @@
+---
+enable: true
+title: "Das Orchester stellt sich vor"
+subtitle: >
+  Das Laienorchester Sinfonietta Charlottenburg wurde im Frühjahr 2011 gegründet. Wir freuen uns, den Probenbetrieb 
+  nach langer Zeit wieder im Hildegard-Wegscheider-Gymnasium aufnehmen zu können, bedanken uns bei allen, die in der 
+  vergangenen Zeit dabei geblieben sind und freuen uns weiter auf eine tolle Zeit des gemeinsamen Musizierens.
+services:
+  - name: "Jutta"
+    description: >
+      Violine
+    icon: "/images/avatarin.png"
+  - name: "Magdalena"
+    description: >
+      Violine
+    icon: "/images/avatarin.png"
+  - name: "Antje"
+    description: >
+      Violine
+    icon: "/images/avatarin.png"
+  - name: "Rene"
+    description: >
+      Violine
+    icon: "/images/avatarin.png"
+
+  - name: "Katja"
+    description: >
+      Flöte
+    icon: "ti-infinite"
+  - name: "Birgit"
+    description: >
+      Flöte
+    icon: "ti-infinite"
+
+  - name: "Ulrike"
+    description: >
+      Oboe
+    icon: "ti-help-alt"
+
+  - name: "Heike"
+    description: >
+      Cello
+    icon: "ti-credit-card"
+  - name: "Jasmin"
+    description: >
+      Cello
+    icon: "ti-credit-card"
+  - name: "Astrid"
+    description: >
+      Cello
+    icon: "ti-credit-card"
+
+  - name: "Bianca"
+    description: > 
+      Kontrabass
+    icon: "ti-lock"
+---
