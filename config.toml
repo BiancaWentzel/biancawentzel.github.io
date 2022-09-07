@@ -3,6 +3,7 @@ languageCode = 'de'
 paginate = 6
 theme= "coHub"
 title = 'Sinfonietta Charlottenburg'
+publishDir = "docs"
  
 [Menu]
   # Main Menu
