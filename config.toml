@@ -19,9 +19,13 @@ title = 'Sinfonietta Charlottenburg'
   url= "#konzerte"
   weight = 3
   [[menu.Main]]
+  name = "Proben"
+  url = "#proben"
+  weight = 4
+  [[menu.Main]]
   name = "Kontakt"
   url= "/contact/"
-  weight = 4
+  weight = 5
 
   # Sitemap Menu
   [[menu.sitemap]]
