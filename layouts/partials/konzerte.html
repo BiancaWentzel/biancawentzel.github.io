@@ -1,4 +1,4 @@
-{{with .Site.Data.blogSection}}
+{{with .Site.Data.konzerte}}
 {{if .enable}}
 <section class="blog" id="blog">
   <div class="container">
@@ -13,7 +13,7 @@
       </div>
     </div>
     <div class="row justify-content-center">
-      {{ range first 3 (where $.Site.RegularPages "Type" "blog") }}
+      {{ range first 3 (where $.Site.RegularPages "Type" "konzerte") }}
       <div class="col-lg-4 col-md-6">
         <article class="blog-post">
           <img src="{{ .Params.featureImage | absURL }}" alt="blog-images">

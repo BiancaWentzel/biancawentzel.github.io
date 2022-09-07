@@ -8,7 +8,7 @@ title = 'Sinfonietta Charlottenburg'
   # Main Menu
   [[menu.Main]]
   name = "Orchester"
-  url= "#service"
+  url= "#orchester"
   weight = 1
   [[menu.Main]]
   name = "Dirigent"
@@ -16,7 +16,7 @@ title = 'Sinfonietta Charlottenburg'
   weight = 2
   [[menu.Main]]
   name = "Konzerte"
-  url= "#blog"
+  url= "#konzerte"
   weight = 3
   [[menu.Main]]
   name = "Kontakt"

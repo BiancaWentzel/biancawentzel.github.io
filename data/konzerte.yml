@@ -3,5 +3,5 @@ enable: true
 title: "Konzerte"
 subtitle: >
           Ein kurzer Text zu unseren Konzerten
-buttonTarget: blog
+buttonTarget: konzerte
 ---
