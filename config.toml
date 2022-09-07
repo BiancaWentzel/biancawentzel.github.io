@@ -1,4 +1,4 @@
-baseURL = 'https://sinfonietta-charlottenburg.de'
+baseURL = 'https://biancawentzel.github.io'
 languageCode = 'de'
 paginate = 6
 theme= "coHub"
