@@ -1,6 +1,6 @@
 {{with .Site.Data.konzerte}}
 {{if .enable}}
-<section class="blog" id="blog">
+<section class="blog" id="blog" style="background: #f3f3f3;">
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -15,7 +15,7 @@
     <div class="row justify-content-center">
       {{ range first 3 (where $.Site.RegularPages "Type" "konzerte") }}
       <div class="col-lg-4 col-md-6">
-        <article class="blog-post">
+        <article class="blog-post" style="background:white;">
           <img src="{{ .Params.featureImage | absURL }}" alt="blog-images">
           <div class="blog-content">
             <h3><a href="{{ .Permalink }}">{{.Title}}</a></h3>
@@ -26,7 +26,7 @@
       </div>
       {{end}}
       <div class="col-12 text-center">
-        <a href="{{.buttonTarget | absURL}}" class="btn btn-primary">Alle Konzerte</a>
+        <a href="{{.buttonTarget | absURL}}" class="btn btn-primary" style="background-color:#b2b2b2;border-color:#b2b2b2;">Alle Konzerte</a>
       </div>
     </div>
   </div>

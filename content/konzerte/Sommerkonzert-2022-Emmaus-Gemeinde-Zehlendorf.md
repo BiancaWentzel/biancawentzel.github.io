@@ -1,13 +1,12 @@
 ---
 title: "Sommerkonzert 2022 - Emmaus Gemeinde Zehlendorf"
-date: 
-featureImage: images/blog/blog-thumb-2.jpg
+date: 2022-07-02T17:00:00+02:00
+featureImage: images/konzerte/dummy.jpeg
 tags: []
 ---
 
   ### Programm
 
-  - Franz Schubert "Die Unvollendete"
-  - Schumann
-  - Pergolesi
-  - Mendelssohn
+  - W.A. Mozart
+  - D. Chimarosa
+  - u.a.

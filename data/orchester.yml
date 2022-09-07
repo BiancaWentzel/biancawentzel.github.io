@@ -9,49 +9,49 @@ orchester:
   - name: "Jutta"
     description: >
       Violine
-    icon: "/images/avatarin.png"
+    icon: "/images/orchester/avatar-female.svg"
   - name: "Magdalena"
     description: >
       Violine
-    icon: "/images/avatarin.png"
+    icon: "/images/orchester/avatar-female.svg"
   - name: "Antje"
     description: >
       Violine
-    icon: "/images/avatarin.png"
+    icon: "/images/orchester/avatar-female.svg"
   - name: "Rene"
     description: >
       Violine
-    icon: "/images/avatarin.png"
+    icon: "/images/orchester/avatar-male.png"
 
   - name: "Katja"
     description: >
       Flöte
-    icon: "ti-infinite"
+    icon: "/images/orchester/avatar-female.svg"
   - name: "Birgit"
     description: >
       Flöte
-    icon: "ti-infinite"
+    icon: "/images/orchester/avatar-female.svg"
 
   - name: "Ulrike"
     description: >
       Oboe
-    icon: "ti-help-alt"
+    icon: "/images/orchester/avatar-female.svg"
 
   - name: "Heike"
     description: >
       Cello
-    icon: "ti-credit-card"
+    icon: "/images/orchester/avatar-female.svg"
   - name: "Jasmin"
     description: >
       Cello
-    icon: "ti-credit-card"
+    icon: "/images/orchester/avatar-female.svg"
   - name: "Astrid"
     description: >
       Cello
-    icon: "ti-credit-card"
+    icon: "/images/orchester/avatar-female.svg"
 
   - name: "Bianca"
     description: > 
       Kontrabass
-    icon: "ti-lock"
+    icon: "/images/orchester/avatar-female.svg"
 ---

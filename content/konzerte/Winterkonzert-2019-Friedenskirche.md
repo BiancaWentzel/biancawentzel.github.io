@@ -1,7 +1,7 @@
 ---
 title: "Winterkonzert 2019 - Friedenskirche"
-date: 
-featureImage: images/blog/Winterkonzert-2019.jpg
+date: 2019-11-24T17:00:00+02:00
+featureImage: images/konzerte/dummy.jpeg
 tags: []
 ---
 
