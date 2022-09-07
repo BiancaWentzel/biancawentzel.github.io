@@ -1,4 +1,4 @@
-{{ with .Site.Data.service}}
+{{ with .Site.Data.orchester}}
 {{ if .enable}}
 <section class="service" id="service">
   <div class="container">
@@ -11,7 +11,7 @@
           </p>
         </div>
       </div>
-      {{ range .services}}
+      {{ range .orchester}}
       <div class="col-lg-4 col-md-6">
         <div class="service-item">
           <img src="{{ "images/avatarin.png" | absURL }}" height="70"/>

@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Dirigent: David Gorol"
-faq:
+dirigent:
   - question: "Name"
     answer: >
             David Gorol
