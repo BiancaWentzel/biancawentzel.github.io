@@ -1,0 +1,27 @@
+---
+enable: true
+title: "Aktuelles Programm"
+subtitle: >
+programm:
+  - composer: Edvard Hagerup Grieg
+    piece: Peer-Gynt-Suite No. 1
+    part:
+      - Tanz in der Halle des Bergkönigs
+      - Ases Tod
+
+  - composer: Christoph Willibald Gluck
+    piece: Orpheus und Eurydike
+    part:
+      - Reigen seliger Geister
+
+  - composer: Peter Iljitsch Tschaikowsky
+    piece: Die Jahreszeiten op.37b
+    part:
+      - Juni - Barkarole
+
+  - composer: Edward William Elgar
+    piece: Enigma-Variationen
+    part:
+      - Variation VIII (Allegretto) "W.N."
+      - Variation IX (Adagio) "Nimrod"
+---

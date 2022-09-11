@@ -17,7 +17,7 @@ orchester:
   - name: "Antje"
     description: >
       Violine
-    icon: "/images/orchester/avatar-female.svg"
+    icon: "/images/orchester/Antje.png"
   - name: "Rene"
     description: >
       Violine
