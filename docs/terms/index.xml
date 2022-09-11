@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Impressum on Sinfonietta Charlottenburg</title>
-    <link>https://biancawentzel.github.io/terms/</link>
+    <link>https://biancawentzel.github.io/index/terms/</link>
     <description>Recent content in Impressum on Sinfonietta Charlottenburg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 08 Jan 2022 12:52:02 +0600</lastBuildDate><atom:link href="https://biancawentzel.github.io/terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 12:52:02 +0600</lastBuildDate><atom:link href="https://biancawentzel.github.io/index/terms/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

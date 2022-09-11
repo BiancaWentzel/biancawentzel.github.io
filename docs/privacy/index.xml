@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datenschutzerklärung on Sinfonietta Charlottenburg</title>
-    <link>https://biancawentzel.github.io/privacy/</link>
+    <link>https://biancawentzel.github.io/index/privacy/</link>
     <description>Recent content in Datenschutzerklärung on Sinfonietta Charlottenburg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 08 Jan 2022 12:51:52 +0600</lastBuildDate><atom:link href="https://biancawentzel.github.io/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 12:51:52 +0600</lastBuildDate><atom:link href="https://biancawentzel.github.io/index/privacy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
