@@ -1,4 +1,4 @@
-baseURL = 'https://biancawentzel.github.io'
+baseURL = 'https://biancawentzel.github.io/index'
 languageCode = 'de'
 paginate = 6
 theme= "coHub"
